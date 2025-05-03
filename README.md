@@ -30,7 +30,7 @@ Features
 
  Litepaper
 
-
+[Download Litepaper (PDF)](./Lite-paper.pdf)
 
  Contacts
 
