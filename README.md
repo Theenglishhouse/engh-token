@@ -40,7 +40,3 @@ Features
 
  Auditors
 
-Access will be granted to:
-	•	raja@auditone.io
-	•	francisco@auditone.io
-	•	mahdi@auditone.io
